@@ -1,6 +1,6 @@
 # Substrings
 
-Projeto proposto pela trilha do curso de Ruby do [The Odin Project](https://www.theodinproject.com/)
+Projeto proposto pela trilha do curso de Ruby do [The Odin Project](https://www.theodinproject.com/).
 
 ## Desafio
 Implementar um método #substrings que usa uma palavra como primeiro argumento e, em seguida, uma matriz de substrings válidas (dicionário) como segundo argumento. Ele deve retornar um hash listando cada substring (sem distinção entre maiúsculas e minúsculas) que foi encontrada na string original e quantas vezes ela foi encontrada.
