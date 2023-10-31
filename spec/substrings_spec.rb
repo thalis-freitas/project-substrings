@@ -4,7 +4,7 @@ require 'substrings'
 describe 'Substrings' do
 context '#substrings' do
     before do
-      @dictionary = %w[below down go going horn how howdy
+      @dictionary = %w[beLOW down go going horn how howdy
                        it i low own part partner sit]
     end
 
